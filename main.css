@@ -245,16 +245,17 @@ header .menu .c-3:hover {background: #002d44;}
 }
 @media screen and (max-width:767px) {
     .redes-sociales .icono {
-        width: 60px;
-        height: 60px;
+        width: 55px;
+        height: 55px;
         font-size: 20px;
-        line-height: 60px;
+        line-height: 55px;
+        margin: 0 5px;
     }
     .volver {
-        width: 60px;
-        height: 60px;
+        width: 55px;
+        height: 55px;
         font-size: 20px;
-        line-height: 60px;
+        line-height: 55px;
     }
 }
 @media screen and (max-width:575px) {
