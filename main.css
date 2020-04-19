@@ -19,6 +19,7 @@ body {
     height: 80px;
     font-size: 30px;
     line-height: 80px;
+    opacity: .6;
   }
 .icon-up-open-big {
     color: #fff;
